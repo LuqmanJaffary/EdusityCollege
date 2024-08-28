@@ -1,5 +1,4 @@
 this is  Edusity college website , make using React 
-i used vite framework for this project
 
 #to run the project , run the following command:
 
